@@ -37,7 +37,7 @@
 This project was developed with the assistance of AI tools.
 Special thanks to Google Gemini for acting as my pair programmer.
 
-* **Core Logic & UI**: Code structure and implementation assistance provided by **Google Gemini**.
+* **Core Logic & UI**: Part of the code structure and implementation assistance provided by **Google Gemini**.
 * **Idea & Testing**: Conceived, tested, and deployed by **Lucifer**.
 
 ## 📄 开源协议
